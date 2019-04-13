@@ -1,2 +1,2 @@
 # Define the variable board below.
-row_1 = 
+row_1 = ["", "", ""]
